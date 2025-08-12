@@ -70,7 +70,7 @@ Copy
 
 Edit
 
-git clone https://github.com/yourusername/mealcheck.git
+git clone https://github.com/festuskyalomutua/my-angular-app.git
 
 cd mealcheck
 
